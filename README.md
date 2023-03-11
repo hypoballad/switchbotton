@@ -4,10 +4,14 @@ This is a sample code that demonstrates how to control SwitchBot devices using G
 
 ## Prerequisites
 
-* Go installed on your local machine
+* Go 1.16 or later
 * A SwitchBot account with at least one device registered
 * Your SwitchBot token and secret values
 * The device ID of the SwitchBot device you want to control
+* SwitchBot device (e.g., SwitchBot)
+* SwitchBot Hub (e.g., Hub Mini)
+
+Before running the application, you need to have a SwitchBot device and a SwitchBot Hub. The SwitchBot Hub is required to control the SwitchBot device remotely via the SwitchBot API.
 
 ## Installation
 
